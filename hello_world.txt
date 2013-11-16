@@ -4,3 +4,4 @@ i have no idea what i am doing
 changes and commits continued
 one more change to this text doc
 gitk command isn't working for me
+instead you can use the git what changed command to see
