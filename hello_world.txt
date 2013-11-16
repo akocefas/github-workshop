@@ -1,3 +1,4 @@
 amanda github workshop
 351 w hubbard chicago
 i have no idea what i am doing
+changes and commits continued
